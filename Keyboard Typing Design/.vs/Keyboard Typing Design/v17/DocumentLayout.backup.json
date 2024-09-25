@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\typing screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|solutionrelative:typing screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|d:\\vscode\\purple\\keyboard typing project\\keyboard typing design\\results screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|solutionrelative:results screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1DE2DF7-4C3D-43E3-B4E3-DF53FC1A842C}|..\\Keyboard Typing System\\Keyboard Typing System.csproj|d:\\vscode\\purple\\keyboard typing project\\keyboard typing system\\clssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\typing screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|solutionrelative:typing screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\results screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02302E42-0E3C-4256-A212-2E2D6E656814}|Keyboard Typing Design.csproj|solutionrelative:results screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Results Screen.cs",
+              "DocumentMoniker": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Results Screen.cs",
+              "RelativeDocumentMoniker": "Results Screen.cs",
+              "ToolTip": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Results Screen.cs",
+              "RelativeToolTip": "Results Screen.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:33:06.229Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Typing Screen.cs",
+              "DocumentMoniker": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Typing Screen.cs",
+              "RelativeDocumentMoniker": "Typing Screen.cs",
+              "ToolTip": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Typing Screen.cs",
+              "RelativeToolTip": "Typing Screen.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:02:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsSystem.cs",
+              "DocumentMoniker": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing System\\clsSystem.cs",
+              "RelativeDocumentMoniker": "..\\Keyboard Typing System\\clsSystem.cs",
+              "ToolTip": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing System\\clsSystem.cs",
+              "RelativeToolTip": "..\\Keyboard Typing System\\clsSystem.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:58:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Typing Screen.cs [Design]",
+              "DocumentMoniker": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Typing Screen.cs",
+              "RelativeDocumentMoniker": "Typing Screen.cs",
+              "ToolTip": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Typing Screen.cs [Design]",
+              "RelativeToolTip": "Typing Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:57:58.863Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Results Screen.cs [Design]",
+              "DocumentMoniker": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Results Screen.cs",
+              "RelativeDocumentMoniker": "Results Screen.cs",
+              "ToolTip": "D:\\vscode\\Purple\\Keyboard Typing Project\\Keyboard Typing Design\\Results Screen.cs [Design]",
+              "RelativeToolTip": "Results Screen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:32:30.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

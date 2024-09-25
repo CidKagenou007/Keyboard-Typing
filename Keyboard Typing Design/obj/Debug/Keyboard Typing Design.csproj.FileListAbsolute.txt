@@ -1,0 +1,15 @@
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\bin\Debug\Keyboard Typing Design.exe.config
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\bin\Debug\Keyboard Typing Design.exe
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\bin\Debug\Keyboard Typing Design.pdb
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\bin\Debug\Keyboard Typing System.dll
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\bin\Debug\Keyboard Typing System.pdb
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard Typing Design.csproj.AssemblyReference.cache
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard_Typing_Design.fmKeyboardTyping.resources
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard_Typing_Design.Properties.Resources.resources
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard Typing Design.csproj.GenerateResource.cache
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard Typing Design.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard.5E49D650.Up2Date
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard Typing Design.exe
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard Typing Design.pdb
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing Design\obj\Debug\Keyboard_Typing_Design.fmResultsScreen.resources

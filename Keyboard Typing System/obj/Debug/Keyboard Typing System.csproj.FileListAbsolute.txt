@@ -1,0 +1,6 @@
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing System\bin\Debug\Keyboard Typing System.dll
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing System\bin\Debug\Keyboard Typing System.pdb
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing System\obj\Debug\Keyboard Typing System.csproj.AssemblyReference.cache
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing System\obj\Debug\Keyboard Typing System.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing System\obj\Debug\Keyboard Typing System.dll
+D:\vscode\Purple\Keyboard Typing Project\Keyboard Typing System\obj\Debug\Keyboard Typing System.pdb
